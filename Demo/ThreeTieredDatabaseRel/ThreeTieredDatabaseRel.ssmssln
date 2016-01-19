@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ThreeTieredDatabaseRel", "ThreeTieredDatabaseRel\ThreeTieredDatabaseRel.ssmssqlproj", "{18DD0EB2-0AE5-4CF3-9817-4024A3D9CEAE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo 1", "Demo 1\Demo 1.ssmssqlproj", "{BDCB1C26-AACD-4212-8131-E4C372AE8F21}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo 2", "Demo 2\Demo 2.ssmssqlproj", "{F6A2995F-F268-4305-BE9B-119696B29365}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo 3", "Demo 3\Demo 3.ssmssqlproj", "{F762AA9C-2433-40F4-BF2A-ECF9E4795A5B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Demo 4", "Demo 4\Demo 4.ssmssqlproj", "{F105B7FF-086F-4F8E-BDBE-EC0B1C3FCF0A}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Setup", "Setup\Setup.ssmssqlproj", "{227B8774-1328-483E-9F88-EAA26B6CFFE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DD0EB2-0AE5-4CF3-9817-4024A3D9CEAE}.Default|Default.ActiveCfg = Default
+		{BDCB1C26-AACD-4212-8131-E4C372AE8F21}.Default|Default.ActiveCfg = Default
+		{F6A2995F-F268-4305-BE9B-119696B29365}.Default|Default.ActiveCfg = Default
+		{F762AA9C-2433-40F4-BF2A-ECF9E4795A5B}.Default|Default.ActiveCfg = Default
+		{F105B7FF-086F-4F8E-BDBE-EC0B1C3FCF0A}.Default|Default.ActiveCfg = Default
+		{227B8774-1328-483E-9F88-EAA26B6CFFE7}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

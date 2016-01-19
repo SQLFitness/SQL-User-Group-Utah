@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "prod Release 2015.11.20", "prod Release 2015.11.20\prod Release 2015.11.20.ssmssqlproj", "{6D2AE27B-19BD-4BE0-94CC-1CEF98140546}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FakeApp 1", "FakeApp 1\FakeApp 1.ssmssqlproj", "{3EA632BF-4064-4A6D-898A-A17DA303D30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D2AE27B-19BD-4BE0-94CC-1CEF98140546}.Default|Default.ActiveCfg = Default
+		{3EA632BF-4064-4A6D-898A-A17DA303D30C}.Default|Default.ActiveCfg = Default
+		{B1BCCF54-13CD-4D27-99A6-BDF67E147121}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
